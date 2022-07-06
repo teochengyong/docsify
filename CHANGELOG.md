@@ -1,3 +1,12 @@
+## [4.12.5](https://github.com/docsifyjs/docsify/compare/v4.12.4...v4.12.5) (2022-07-06)
+
+
+### Bug Fixes
+
+* Empty test commit ([45ff1b5](https://github.com/docsifyjs/docsify/commit/45ff1b546f1fdb15414a41c2da76e979e353e678))
+
+
+
 ## [4.12.4](https://github.com/docsifyjs/docsify/compare/v4.12.3...v4.12.4) (2022-07-06)
 
 
