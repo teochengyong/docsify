@@ -1,3 +1,7 @@
+## [4.12.4](https://github.com/docsifyjs/docsify/compare/v4.12.3...v4.12.4) (2022-07-06)
+
+
+
 ## [4.12.3](https://github.com/docsifyjs/docsify/compare/v4.12.2...v4.12.3) (2022-06-30)
 
 
